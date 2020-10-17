@@ -3,12 +3,19 @@ body
       background-color: #333333;
 }
 h1
-      {
-        max-width: 100%;
-        color: #ff00ff; font-family: Arial; font-size: 36px
-      }
-      img
-      {
-        width: 100%;
-        height: 100:
-      }
+{
+       max-width: 100%;
+       color: #ff00ff; font-family: Arial; font-size: 36px
+}
+a:link
+{
+        color: #ff00ff;
+}
+a:visited
+{
+        color: #00ffff;
+}
+a:hover
+{
+        color: #ff88ff;
+}
